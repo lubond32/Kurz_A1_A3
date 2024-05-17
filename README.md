@@ -3,7 +3,7 @@ Zdroj: [uas.nsat.sk](http://uas.nsat.sk)
 
 Keďže všetky oficiálne linky na štúdijný materiál Dopravného úradu sú stále nefunkčné, tu je náhľad do prvých 5-tich tém. Kompletný 'oficiálny' výukový text v html súborch v [adresári HTML](HTML/) - nutné stiahnuť a otvoriť v prehliadači lokálne.  
 
-Pri online skúške na Dopravnom úrade však budete dotazovaný aj na veci, o ktorých v tomto materiáli nie je ani ťuk. 😊 Vitajťe na Slovensku !  
+Pri online skúške na Dopravnom úrade však budete dotazovaní aj na veci, o ktorých v tomto materiáli nie je ani ťuk. 😊 Vitajťe na Slovensku !  
 
 [Oficiálne informácie Dopravného úradu.](http://letectvo.nsat.sk/bezpilotne-letectvo/)  
 
