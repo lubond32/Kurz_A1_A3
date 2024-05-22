@@ -1,9 +1,9 @@
-Neoficiálna pPomôcka ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR.
+Neoficiálna pomôcka ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR. Text obsahuje citácie [zo stránok Dopravného úradu](http://letectvo.nsat.sk/bezpilotne-letectvo/).  
 
 ### Letecké modelárstvo  
-Rovnako ako drony, modely lietadiel sú bezpilotné lietadlá, na ktoré sa vzťahuje Nariadenie (EÚ) 2019/947. Oba majú lietajúcu časť a diaľkové ovládanie.  
+Rovnako ako drony, **modely lietadiel sú bezpilotné lietadlá**, na ktoré sa vzťahuje Nariadenie (EÚ) 2019/947. Oba majú lietajúcu časť a diaľkové ovládanie.  
 
-Ide o tieto UAS:  
+V kontexte "leteckého modelárstva" o tieto UAS:  
 - lietajúce modely s označením triedy **C4**,  
 - **súkromne vyrobené modely** lietadiel s max. vzletovou hmotnosťou **menej ako 25 kg**.
   
@@ -11,12 +11,14 @@ Tieto lety sa môžu vykonávať s lietajúcimi modelmi v **podkategórii A3**. 
 
 Lety diaľkovo riadených lietajúcich modelov je možné v **otvorenej kategórii** po splnení príslušných podmienok vrátane:  
 - registrácie prevádzkovateľa UAS,  
-- absolvovania skúšky pre pilotov A1/A3).
+- absolvovania skúšky pre pilotov A1/A3.
 
-[Registrácia prevádzkovateľov](http://letectvo.nsat.sk/bezpilotne-letectvo/registracia-prevadzkovatelov-uas/) ako aj [online kurz](http://letectvo.nsat.sk/bezpilotne-letectvo/skusky-pilotov-na-dialku/) so skúškou Pilot na diaľku A1/A3 sú bezplatné.  
+[Registrácia prevádzkovateľa UAS](http://letectvo.nsat.sk/bezpilotne-letectvo/registracia-prevadzkovatelov-uas/) - teda aj leteckých modelov, ako aj [online kurz](http://letectvo.nsat.sk/bezpilotne-letectvo/skusky-pilotov-na-dialku/) pre skúškou "Pilot na diaľku A1/A3" sú bezplatné.  
 
 ### Úvod do legislatívy  
-Na vykonanie letu bezpilotným lietadlom je pilot na diaľku povinný byť držiteľom dokladu o spôsobilosti v súlade s požiadavkami nariadenia (EÚ) 2019/947 podľa kategórie prevádzky. 
+Tento text obsahuje citáciu[^1].
+
+Na vykonanie letu bezpilotným lietadlom je pilot na diaľku povinný byť držiteľom dokladu o spôsobilosti v súlade s požiadavkami nariadenia (EÚ) 2019/947 podľa kategórie prevádzky.[^1]  
 
 Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **na prevádzku v podkategórii A1 a A3 je pilot povinný absolvovať online skúšku teoretických vedomostí A1/A3**, ak prevádzkuje bezpilotné lietadlo s hmotnosťou nad 250 g. Na prevádzku v podkategórii A2 je pilot povinný absolvovať online výcvikový kurz A1/A3 spolu s dodatočnou skúškou teoretických vedomostí A2. V podkategórii A2 možno prevádzkovať len také bezpilotné lietadlo, ktoré je označené identifikačným štítkom triedy C2. Na prevádzku v osobitnej kategórii podľa štandardných scenárov (STS01, STS02) je potrebné absolvovať skúšku teoretických vedomostí STS.  
 
@@ -27,7 +29,6 @@ Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **na prevád
 - [Letecké modelárstvo](http://letectvo.nsat.sk/bezpilotne-letectvo/letecke-modelarstvo/)
 - [poistenie dronov](https://www.dronerepublic.sk/poistenie-dronov/)  
 - [mamdron.sk](https://mamdron.sk/piloti-dronov/)  
-
 
 ﻿## Hlavné témy kurzu
 Dopravný úrad SR zostavil 9 hlavných tém kurzu. Obsah tvorí základ vedomostí potrebných pre úspešnú skúšku pilota A1/A3, sú tam aj linky na ďalšie dôležité informácie.  
