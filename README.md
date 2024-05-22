@@ -1,4 +1,4 @@
-Toto má byť ako neoficiálna pomôcka pre "bežných modelárov" ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR, ktorej cieľom má byť získanie dokladu o absolvovaní výcvikového kurzu.  
+Toto je neoficiálna pomôcka pre "bežných modelárov" ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR, ktorej cieľom má byť získanie dokladu o absolvovaní výcvikového kurzu.  
 
 <div style="text-align: center;">
   <img src="100.png" alt="Logo GitHub" width="50%">
