@@ -1,20 +1,21 @@
-Neoficiálna pomôcka ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR.  
-**Text obsahuje citácie [zo stránok Dopravného úradu](http://letectvo.nsat.sk/bezpilotne-letectvo/).**  
+Toto má byť ako neoficiálna pomôcka pre "bežných modelárov" ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR. Text na tejto stránke je veľmy stručný a je potrebné ho chápať v kontexte danej legislatívy. Ani zďaleka nepopisuje celú problematiku prevádzkovania UAS.  
+
+Text obsahuje citácie z verejne dostupných stránok  [Dopravného úradu SR](http://letectvo.nsat.sk/bezpilotne-letectvo/).  
 
 ### Letecké modelárstvo  
 Rovnako ako drony, **modely lietadiel sú bezpilotné lietadlá**, na ktoré sa vzťahuje Nariadenie (EÚ) 2019/947. Oba majú lietajúcu časť a diaľkové ovládanie.  
 
-V kontexte "leteckého modelárstva" ide o tieto UAS zariadenia:  
+V kontexte "leteckého modelárstva" a citovaného Nariadenie ide o tieto UAS zariadenia:  
 - lietajúce modely s označením triedy **C4**,  
 - **súkromne vyrobené modely** lietadiel s max. vzletovou hmotnosťou **menej ako 25 kg**.
   
 Lety s modelmi triedy **C4** a so **súkromne vyrobenými modelmi do 25 kg** sa môžu vykonávať s lietajúcimi modelmi v **podkategórii A3**. Prevádzka musí byť v súlade s podmienkami stanovenými v časti A UAS.OPEN.040 prílohy k nariadeniu (EÚ) 2019/947.  
 
-Lety diaľkovo riadených lietajúcich modelov je možné v **otvorenej kategórii** po splnení príslušných podmienok vrátane:  
+Lety diaľkovo riadených lietajúcich modelov je možné v **otvorenej kategórii** po splnení príslušných podmienok, vrátane:  
 - registrácie prevádzkovateľa UAS,  
 - absolvovania skúšky pre pilotov A1/A3.
 
-[Registrácia prevádzkovateľa UAS](http://letectvo.nsat.sk/bezpilotne-letectvo/registracia-prevadzkovatelov-uas/) - teda aj leteckých modelov, ako aj [online kurz](http://letectvo.nsat.sk/bezpilotne-letectvo/skusky-pilotov-na-dialku/) pre skúškou "Pilot na diaľku A1/A3" sú bezplatné.  
+[Registrácia prevádzkovateľa UAS](http://letectvo.nsat.sk/bezpilotne-letectvo/registracia-prevadzkovatelov-uas/) - teda aj leteckých modelov, ako aj [online kurz a skúšku](http://letectvo.nsat.sk/bezpilotne-letectvo/skusky-pilotov-na-dialku/) "Pilot na diaľku A1/A3", sú bezplatné.  
 
 ### Základ legislatívy
 
@@ -26,7 +27,7 @@ Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **na prevád
 
 ## Hlavné témy kurzu  
  
-Dopravný úrad SR zostavil 9 hlavných tém kurzu. Obsah tvorí základ vedomostí potrebných pre úspešnú skúšku pilota A1/A3, ale v dokunetoch sú aj odkazy na ďalší štúdijný materiál.  
+Dopravný úrad SR zostavil 9 hlavných tém kurzu. Obsah tvorí základ vedomostí potrebných pre úspešnú skúšku pilota A1/A3, ale v dokumentoch sú aj odkazy na ďalší štúdijný materiál.  
 
 [1. Letecká bezpečnosť](1_Letecka_bezpecnost.html)  
 [2. Obmedzenia vzdušného priesitoru](2_Obmedzenia_vzd_priestoru.html)  
