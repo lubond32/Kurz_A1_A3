@@ -23,3 +23,4 @@ Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **nas prevá
 - [drony Legislatíva 2024](https://www.xtreme.sk/clanok/14/drony-legislativa-2024/)  
 - [poistenie dronov](https://www.dronerepublic.sk/poistenie-dronov/)  
 - [mamdron.sk](https://mamdron.sk/piloti-dronov/)  
+
