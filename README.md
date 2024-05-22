@@ -1,4 +1,4 @@
-- ako pomôcka ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR 
+(pomôcka ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR)
 
 ### Letecké modelárstvo  
 Rovnako ako drony, modely lietadiel sú bezpilotné lietadlá, na ktoré sa vzťahuje Nariadenie (EÚ) 2019/947. Oba majú lietajúcu časť a diaľkové ovládanie.  
