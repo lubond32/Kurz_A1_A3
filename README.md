@@ -29,7 +29,8 @@ Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **na prevád
 - [mamdron.sk](https://mamdron.sk/piloti-dronov/)  
 
 
-﻿### Hlavné témy kurzu pr epilotov A1/A3
+﻿## Hlavné témy kurzu
+Dopravný úrad SR zostavil 9 hlavných tém kurzu. Obsah tvorí základ vedomostí potrebných pre úspešnú skúšku pilota A1/A3, sú tam aj linky na ďalšie dôležité informácie.  
 
 [1. Letecká bezpečnosť](1_Letecka_bezpecnost.html)  
 [2. Obmedzenia vzdušného priesitoru](2_Obmedzenia_vzd_priestoru.html)  
