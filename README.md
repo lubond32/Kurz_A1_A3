@@ -1,7 +1,7 @@
 Toto má byť ako neoficiálna pomôcka pre "bežných modelárov" ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR, ktorej cieľom má byť získanie dokladu o absolvovaní výcvikového kurzu.  
 
 <div style="text-align: center;">
-  <img src="100.png" alt="Logo GitHub" width="25%">
+  <img src="100.png" alt="Logo GitHub" width="50%">
 </div>
 
 Text na tejto stránke je veľmy stručný a je potrebné ho chápať v kontexte danej legislatívy. Ani zďaleka nepopisuje celú problematiku prevádzkovania UAS.  
