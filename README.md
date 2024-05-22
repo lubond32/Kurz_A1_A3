@@ -1,4 +1,4 @@
-Neoficiálna pomôcka ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR. Text obsahuje citácie [zo stránok Dopravného úradu](http://letectvo.nsat.sk/bezpilotne-letectvo/).  
+Neoficiálna pomôcka ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR. Text obsahuje citácie [^1] [zo stránok Dopravného úradu](http://letectvo.nsat.sk/bezpilotne-letectvo/).  
 
 ### Letecké modelárstvo  
 Rovnako ako drony, **modely lietadiel sú bezpilotné lietadlá**, na ktoré sa vzťahuje Nariadenie (EÚ) 2019/947. Oba majú lietajúcu časť a diaľkové ovládanie.  
@@ -16,11 +16,10 @@ Lety diaľkovo riadených lietajúcich modelov je možné v **otvorenej kategór
 [Registrácia prevádzkovateľa UAS](http://letectvo.nsat.sk/bezpilotne-letectvo/registracia-prevadzkovatelov-uas/) - teda aj leteckých modelov, ako aj [online kurz](http://letectvo.nsat.sk/bezpilotne-letectvo/skusky-pilotov-na-dialku/) pre skúškou "Pilot na diaľku A1/A3" sú bezplatné.  
 
 ### Úvod do legislatívy  
-Tento text obsahuje citáciu[^1].
 
 Na vykonanie letu bezpilotným lietadlom je pilot na diaľku povinný byť držiteľom dokladu o spôsobilosti v súlade s požiadavkami nariadenia (EÚ) 2019/947 podľa kategórie prevádzky.[^1]  
 
-Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **na prevádzku v podkategórii A1 a A3 je pilot povinný absolvovať online skúšku teoretických vedomostí A1/A3**, ak prevádzkuje bezpilotné lietadlo s hmotnosťou nad 250 g. Na prevádzku v podkategórii A2 je pilot povinný absolvovať online výcvikový kurz A1/A3 spolu s dodatočnou skúškou teoretických vedomostí A2. V podkategórii A2 možno prevádzkovať len také bezpilotné lietadlo, ktoré je označené identifikačným štítkom triedy C2. Na prevádzku v osobitnej kategórii podľa štandardných scenárov (STS01, STS02) je potrebné absolvovať skúšku teoretických vedomostí STS.  
+Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **na prevádzku v podkategórii A1 a A3 je pilot povinný absolvovať online skúšku teoretických vedomostí A1/A3**, ak prevádzkuje bezpilotné lietadlo s hmotnosťou nad 250 g. Na prevádzku v podkategórii A2 je pilot povinný absolvovať online výcvikový kurz A1/A3 spolu s dodatočnou skúškou teoretických vedomostí A2. V podkategórii A2 možno prevádzkovať len také bezpilotné lietadlo, ktoré je označené identifikačným štítkom triedy C2. Na prevádzku v osobitnej kategórii podľa štandardných scenárov (STS01, STS02) je potrebné absolvovať skúšku teoretických vedomostí STS.[^1]  
 
 [Oficiálne informácie Dopravného úradu.](http://letectvo.nsat.sk/bezpilotne-letectvo/)  
 
