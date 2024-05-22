@@ -1,4 +1,10 @@
-Toto má byť ako neoficiálna pomôcka pre "bežných modelárov" ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR. Text na tejto stránke je veľmy stručný a je potrebné ho chápať v kontexte danej legislatívy. Ani zďaleka nepopisuje celú problematiku prevádzkovania UAS.  
+Toto má byť ako neoficiálna pomôcka pre "bežných modelárov" ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR, ktorej cieľom má byť získanie dokladu o absolvovaní výcvikového kurzu.  
+
+<div style="text-align: center;">
+  <img src="100.png" alt="Logo GitHub" width="25%">
+</div>
+
+Text na tejto stránke je veľmy stručný a je potrebné ho chápať v kontexte danej legislatívy. Ani zďaleka nepopisuje celú problematiku prevádzkovania UAS.  
 
 Text obsahuje citácie z verejne dostupných stránok  [Dopravného úradu SR](http://letectvo.nsat.sk/bezpilotne-letectvo/).  
 
