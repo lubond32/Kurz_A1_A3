@@ -2,8 +2,9 @@
 
 [Oficiálne informácie Dopravného úradu.](http://letectvo.nsat.sk/bezpilotne-letectvo/)  
 
-[1. Letecká bezpečnosť](1_Letecka_bezpecnost.html)
-[2. Obmedzenia vzdušného priesitoru](2_Obmedzenia_vzd_priestoru.html)
+[1. Letecká bezpečnosť](1_Letecka_bezpecnost.html)  
+[2. Obmedzenia vzdušného priesitoru](2_Obmedzenia_vzd_priestoru.html)  
+
 
 
 Ďalšie užitočné linky:
