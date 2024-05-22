@@ -1,9 +1,9 @@
-## Pilot na diaľku A1/A3
+- ako pomôcka ku online skúške "Pilot na diaľku A1/A3" na Dopravnom úrade SR 
 
 ### Letecké modelárstvo  
 Rovnako ako drony, modely lietadiel sú bezpilotné lietadlá, na ktoré sa vzťahuje Nariadenie (EÚ) 2019/947. Oba majú lietajúcu časť a diaľkové ovládanie.  
 
-Ide o tieto zariadenia:  
+Ide o tieto UAS:  
 - lietajúce modely s označením triedy **C4**,  
 - **súkromne vyrobené modely** lietadiel s max. vzletovou hmotnosťou **menej ako 25 kg**.
   
@@ -12,6 +12,8 @@ Tieto lety sa môžu vykonávať s lietajúcimi modelmi v **podkategórii A3**. 
 Lety diaľkovo riadených lietajúcich modelov je možné v **otvorenej kategórii** po splnení príslušných podmienok vrátane:  
 - registrácie prevádzkovateľa UAS,  
 - absolvovania skúšky pre pilotov A1/A3).
+- 
+[Registrácia prevádzkovateľov](http://letectvo.nsat.sk/bezpilotne-letectvo/registracia-prevadzkovatelov-uas/) ako aj [online kurz](http://letectvo.nsat.sk/bezpilotne-letectvo/skusky-pilotov-na-dialku/) so skúškou Pilot na diaľku A1/A3 sú bezplatné.  
 
 ### Úvod do legislatívy  
 Na vykonanie letu bezpilotným lietadlom je pilot na diaľku povinný byť držiteľom dokladu o spôsobilosti v súlade s požiadavkami nariadenia (EÚ) 2019/947 podľa kategórie prevádzky. 
@@ -26,8 +28,9 @@ Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **na prevád
 - [poistenie dronov](https://www.dronerepublic.sk/poistenie-dronov/)  
 - [mamdron.sk](https://mamdron.sk/piloti-dronov/)  
 
-﻿## Hlavné témy pre skúšku A1/A3
- 
+
+﻿## Hlavné témy pre skúšku A1/A3  
+
 [1. Letecká bezpečnosť](1_Letecka_bezpecnost.html)  
 [2. Obmedzenia vzdušného priesitoru](2_Obmedzenia_vzd_priestoru.html)  
 [3. Letecké predpisy](3_Letecke_predpisy.html)  
