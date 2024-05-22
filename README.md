@@ -12,7 +12,7 @@ Tieto lety sa môžu vykonávať s lietajúcimi modelmi v **podkategórii A3**. 
 Lety diaľkovo riadených lietajúcich modelov je možné v **otvorenej kategórii** po splnení príslušných podmienok vrátane:  
 - registrácie prevádzkovateľa UAS,  
 - absolvovania skúšky pre pilotov A1/A3).
-- 
+
 [Registrácia prevádzkovateľov](http://letectvo.nsat.sk/bezpilotne-letectvo/registracia-prevadzkovatelov-uas/) ako aj [online kurz](http://letectvo.nsat.sk/bezpilotne-letectvo/skusky-pilotov-na-dialku/) so skúškou Pilot na diaľku A1/A3 sú bezplatné.  
 
 ### Úvod do legislatívy  
@@ -29,7 +29,7 @@ Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **na prevád
 - [mamdron.sk](https://mamdron.sk/piloti-dronov/)  
 
 
-﻿## Hlavné témy pre skúšku A1/A3  
+﻿### Hlavné témy kurzu pr epilotov A1/A3
 
 [1. Letecká bezpečnosť](1_Letecka_bezpecnost.html)  
 [2. Obmedzenia vzdušného priesitoru](2_Obmedzenia_vzd_priestoru.html)  
