@@ -13,7 +13,6 @@ Ak prevádzkujete bezpilotné lietadlo s hmotnosťou nad 250 g, tak **nas prevá
 [2. Obmedzenia vzdušného priesitoru](2_Obmedzenia_vzd_priestoru.html)  
 [3. Letecké predpisy](3_Letecke_predpisy.html)  
 [4. Obmedzenia ľudskej výkonnosti.html](4_Obmedzenia_ludskej_vykonnosti.html)  
-[5. Prevádzkové postupy](5_Prevadkove postupy.html)  
 [6. Všeobecné znalosti o UAS](6_Vseobecne_znalosti_o_UAS.html)  
 [7. Ochrana súkromia a osobných údajov](7_Ochrana_sukromia_a_osobnych_udajov.html)  
 [8. Poistenie](8_Poistenie.html)  
