@@ -4,6 +4,7 @@ Toto má byť ako neoficiálna pomôcka pre "bežných modelárov" ku online sk�
   <img src="100.png" alt="Logo GitHub" width="50%">
 </div>
 
+<BR>
 Text na tejto stránke je veľmy stručný a je potrebné ho chápať v kontexte danej legislatívy. Ani zďaleka nepopisuje celú problematiku prevádzkovania UAS.  
 
 Text obsahuje citácie z verejne dostupných stránok  [Dopravného úradu SR](http://letectvo.nsat.sk/bezpilotne-letectvo/).  
